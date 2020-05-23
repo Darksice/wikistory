@@ -1,5 +1,5 @@
 import React from 'react';
-//import './App.css';
+import './App.css';
 import logoSite from './img/logo.png';
 import logoConnexion from './img/connexion.jpg';
 
